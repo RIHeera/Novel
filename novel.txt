@@ -1,0 +1,32 @@
+[
+        
+	{
+            "name": "প্রথম পর্ব",
+            "description": ""
+	},		
+	{
+            "name": "দ্বিতীয় পর্ব",
+            "description": ""
+	},		
+	{
+            "name": "তৃতীয় পর্ব",
+            "description": ""
+	},		
+	{
+            "name": "চতুর্থ পর্ব",
+            "description": ""
+	},
+	{
+            "name": "পঞ্চম পর্ব",
+            "description": ""
+	},
+	{
+            "name": "ষষ্ঠ পর্ব",
+            "description": ""
+	},
+	{
+            "name": "সপ্তম পর্ব",
+            "description": ""
+	},
+				
+]
